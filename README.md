@@ -26,4 +26,6 @@ For .rpm packages:
 
 !["Janela Cadastro."](https://github.com/user-attachments/assets/11ebc15c-d03c-487d-a155-00af0e6cdf52)
 
+## When inside the app, and the add music button is selected, a page with the song information is shown
 
+!["Janela Add Música."](https://github.com/user-attachments/assets/11ebc15c-d03c-487d-a155-00af0e6cdf52)
