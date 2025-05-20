@@ -20,7 +20,7 @@ For .rpm packages:
 
 ## After running the cloned project into Intellij, the first window should look like this
 
-!["Janela Inicial."](https://github.com/user-attachments/assets/fbf1fcff-8bc1-4a54-8941-66d291ce4907)
+<img src="https://github.com/user-attachments/assets/fbf1fcff-8bc1-4a54-8941-66d291ce4907" alt="Description" width="400"/>
 
 ## After clicking to register, a credentials window is opened
 
