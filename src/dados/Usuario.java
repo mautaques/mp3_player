@@ -6,15 +6,19 @@ import java.util.Objects;
 
 public class Usuario {
 
+    private int id;
     private String username;
-
     private String senha;
 
     private List<Playlist> playlists = new ArrayList<>();
 
-    private List<Artista> artistas = new ArrayList<>();
+    public int getId() {
+        return id;
+    }
 
-    private List<Musica> musicas = new ArrayList<>();
+    public void setId(int id) {
+        this.id = id;
+    }
 
     public String getUsername() {
         return username;
@@ -40,36 +44,13 @@ public class Usuario {
         this.playlists = playlists;
     }
 
-    public List<Artista> getArtistas() {
-        return artistas;
-    }
-
-    public void setArtistas(List<Artista> artistas) {
-        this.artistas = artistas;
-    }
-
-    public List<Musica> getMusicas() {
-        return musicas;
-    }
-
-    public void setMusicas(List<Musica> musicas) {
-        this.musicas = musicas;
-    }
-
-    public Usuario(String login, String senha) {
-        this.username = login;
-        this.senha = senha;
-    }
-
     public Usuario() {
     }
 
     public String toString() {
-        return "Usuario{" +
-                "username='" + username + '\'' +
-                ", senha='" + senha + '\'' +
-                ", playlists=" + playlists +
-                '}';
+        return "username: " + username +
+                ", senha: " + senha +
+                ", playlists: " + playlists;
     }
 
     public boolean equals(Object o) {
