@@ -20,14 +20,14 @@ For .rpm packages:
 
 ## After running the cloned project into Intellij, the first window should look like this
 
-!["Janela Inicial."](<img width="400" alt="Image" src="https://github.com/user-attachments/assets/fbf1fcff-8bc1-4a54-8941-66d291ce4907" />)
+!["Janela Inicial."](https://github.com/user-attachments/assets/fbf1fcff-8bc1-4a54-8941-66d291ce4907)
 
 ## After clicking to register, a credentials window is opened
 
-!["Janela Cadastro."](<img width="400" alt="Image" src="https://github.com/user-attachments/assets/11ebc15c-d03c-487d-a155-00af0e6cdf52" />)
+!["Janela Cadastro."](https://github.com/user-attachments/assets/11ebc15c-d03c-487d-a155-00af0e6cdf52)
 
 ## When inside the app, and the add music button is selected, a page with the song information is shown
 
-!["Janela Add Música."](<img width="400" alt="Image" src="https://github.com/user-attachments/assets/59a1f94c-a829-46ce-b19d-16d9c0a75b46" />)
+!["Janela Add Música."](https://github.com/user-attachments/assets/59a1f94c-a829-46ce-b19d-16d9c0a75b46)
 
 
