@@ -24,10 +24,11 @@ For .rpm packages:
 
 ## After clicking to register, a credentials window is opened
 
-!["Janela Cadastro."](https://github.com/user-attachments/assets/11ebc15c-d03c-487d-a155-00af0e6cdf52)
+<img src="https://github.com/user-attachments/assets/11ebc15c-d03c-487d-a155-00af0e6cdf52" alt="Description" width="400"/>
 
 ## When inside the app, and the add music button is selected, a page with the song information is shown
 
-!["Janela Add Música."](https://github.com/user-attachments/assets/59a1f94c-a829-46ce-b19d-16d9c0a75b46)
+<img src="https://github.com/user-attachments/assets/59a1f94c-a829-46ce-b19d-16d9c0a75b46" alt="Description" width="400"/>
+
 
 
