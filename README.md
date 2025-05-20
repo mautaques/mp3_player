@@ -1,8 +1,8 @@
 ## Requirements
 
- * [Intellij IDEA CE]([https://jitpack.io/#umjammer/jlayer](https://www.jetbrains.com/idea/download/?section=mac))
+ * [Intellij IDEA CE]((https://www.jetbrains.com/idea/download/?section=mac))
 
- * [JLayer](https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1)
+ * [JLayer]([https://mvnrepository.com/artifact/javazoom/jlayer/1.0.1)
 
  * [JDK 9 or later](https://www.oracle.com/br/java/technologies/downloads/)
 
